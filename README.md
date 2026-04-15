@@ -10,7 +10,9 @@ I am Abdellah Darimi, a Full-Stack Developer and the Founder of Darimi Solutions
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdeldrm&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdeldrm&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeldrm&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?)<br/>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+username=Abdeldrm&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abdeldrm&icon=0&color=0)](https://visitcount.itsvg.in)
