@@ -18,21 +18,21 @@
 
 </div>
 
-### 🚀 The Mission
+###  The Mission
 I advocate for modern, high-performance interfaces featuring **dark themes, glassmorphism, and seamless animations**. Currently honing my technical skills at ISTA while managing real-world software deployments.
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>💼 What I Do</h3>
+      <h3> What I Do</h3>
       <ul>
-        <li>🏗️ <b>Scaling Eventix:</b> Building a multi-tenant SaaS ticketing platform tailored for the Moroccan market.</li>
-        <li>💡 <b>Digital Transformation:</b> Helping businesses evolve through custom web and mobile solutions via Darimi Solutions.</li>
-        <li>🎨 <b>UI/UX Architecture:</b> Designing pixel-perfect, scalable architectures from the ground up.</li>
+        <li> <b>Scaling Eventix:</b> Building a multi-tenant SaaS ticketing platform tailored for the Moroccan market.</li>
+        <li><b>Digital Transformation:</b> Helping businesses evolve through custom web and mobile solutions via Darimi Solutions.</li>
+        <li> <b>UI/UX Architecture:</b> Designing pixel-perfect, scalable architectures from the ground up.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🛠️ Core Tech Arsenal</h3>
+      <h3> Core Tech Arsenal</h3>
       <b>Frontend & Design</b><br>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
@@ -52,25 +52,26 @@ I advocate for modern, high-performance interfaces featuring **dark themes, glas
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
 </div>
 
-### 📈 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdeldrm&theme=tokyonight&column=7&no-bg=true&margin-w=15" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abdeldarimi&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 <br>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdeldrm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeldrm&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdeldrm&theme=tokyonight&hide_border=true&background=00000000" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdeldarimi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeldarimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=Abdeldrm&icon=1&color=6" alt="visitor count" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdeldarimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=Abdeldarimi&icon=1&color=6" alt="Profile Visitor Count" />
 </div>
