@@ -1,77 +1,90 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=31A8FF&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abdellah+Darimi;Full-Stack+Developer;Founder+of+Darimi+Solutions;Scaling+Eventix+for+Morocco+🇲🇦" alt="Typing SVG" />
-</a>
+<h1>Abdellah Darimi</h1>
+<h3>Full-Stack Developer • Founder of Darimi Solutions</h3>
 
-<p align="center">
-  <b>Bridging the gap between sophisticated UI/UX design and robust, scalable backend architecture.</b>
+<p>
+Building high-performance digital products that combine refined UI/UX with scalable backend systems.
 </p>
 
-<p align="center">
-  <a href="https://ma.linkedin.com/in/abdellah-darimi-4032b43a5"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/abdeldrm__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:darimiabdellah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-
-</div>
-
-###  The Mission
-I advocate for modern, high-performance interfaces featuring **dark themes, glassmorphism, and seamless animations**. Currently honing my technical skills at ISTA while managing real-world software deployments.
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3> What I Do</h3>
-      <ul>
-        <li> <b>Scaling Eventix:</b> Building a multi-tenant SaaS ticketing platform tailored for the Moroccan market.</li>
-        <li><b>Digital Transformation:</b> Helping businesses evolve through custom web and mobile solutions via Darimi Solutions.</li>
-        <li> <b>UI/UX Architecture:</b> Designing pixel-perfect, scalable architectures from the ground up.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3> Core Tech Arsenal</h3>
-      <b>Frontend & Design</b><br>
-      <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white">
-      <br><br>
-      <b>Backend & Database</b><br>
-      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
-      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white">
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-</div>
-
-###  GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdeldarimi&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 <br>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdeldarimi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeldarimi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://ma.linkedin.com/in/abdellah-darimi-4032b43a5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/abdeldrm__">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:darimiabdellah@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Abdeldarimi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+---
+
+## About
+
+I am Abdellah Darimi, a Full-Stack Developer and founder of Darimi Solutions, based in Morocco.  
+My work focuses on designing and delivering modern digital products that bridge the gap between advanced frontend experiences and scalable backend architectures.
+
+I am currently developing Eventix, a multi-tenant SaaS ticketing platform tailored for the Moroccan market, while also helping businesses evolve through custom-built web and mobile solutions.
+
+My design philosophy emphasizes performance, clarity, and modern interface standards, including dark themes, glassmorphism, and fluid animations.
+
+Alongside professional work, I continue to strengthen my technical foundation at ISTA through applied, real-world projects.
+
+---
+
+## Core Focus
+
+- Development of scalable SaaS platforms (Eventix)
+- Digital transformation for businesses
+- UI/UX system design and frontend architecture
+- Backend systems and API development
+
+---
+
+## Tech Stack
+
+### Frontend & Design
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
+
+### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <br>
-  <img src="https://visitcount.itsvg.in/api?id=Abdeldarimi&icon=1&color=6" alt="Profile Visitor Count" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abdeldrm&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeldrm&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Abdeldrm&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=Abdeldrm&icon=0&color=0" />
+
 </div>
