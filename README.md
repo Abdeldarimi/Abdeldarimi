@@ -75,7 +75,7 @@
 ###  GitHub Stats:
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abdeldarimi&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=Abdeldarimi" alt="GitHub Trophies" />
   </a>
 </div>
 
